@@ -345,9 +345,6 @@ The completed machine operates as a:
 - SSH-manageable recovery host
 - remotely rebootable unattended computer
 
-For publication instructions and community contribution steps, see
-[PUBLISHING.md](PUBLISHING.md).
-
 ## License
 
 This guide and its scripts are released under the [MIT License](LICENSE).
