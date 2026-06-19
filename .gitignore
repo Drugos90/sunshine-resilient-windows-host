@@ -1,0 +1,11 @@
+  *.log
+  *.old
+  *.pid
+  *.pem
+  *.key
+  *.pfx
+  *.reg
+  sunshine_state.json
+  config/
+  .vs/
+  .vscode/
