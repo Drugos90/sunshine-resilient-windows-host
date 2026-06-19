@@ -38,6 +38,11 @@ https://localhost:47990
 Configure Sunshine, pair Moonlight, and complete one successful local stream
 before continuing.
 
+Use a currently supported Sunshine release and review the project's published
+security advisories before deployment and after every update. Tailscale reduces
+network exposure but does not replace security patches:
+https://github.com/LizardByte/Sunshine/security/advisories
+
 Official Sunshine setup documentation:
 https://docs.lizardbyte.dev/projects/sunshine/latest/md_docs_2getting__started.html
 
